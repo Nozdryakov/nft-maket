@@ -34,3 +34,93 @@
     font-family: 'Oxanium-SemiBold';
     src: url('Oxanium-SemiBold.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: 'WorkSans-Black';
+    src: url('WorkSans-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-BlackItalic';
+    src: url('WorkSans-BlackItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-Bold';
+    src: url('WorkSans-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-BoldItalic';
+    src: url('WorkSans-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-ExtraBold';
+    src: url('WorkSans-ExtraBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-ExtraBoldItalic';
+    src: url('WorkSans-ExtraBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-ExtraLight';
+    src: url('WorkSans-ExtraLight.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-ExtraLightItalic';
+    src: url('WorkSans-ExtraLightItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-Italic';
+    src: url('WorkSans-Italic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-Light';
+    src: url('WorkSans-Light.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-LightItalic';
+    src: url('WorkSans-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-Medium';
+    src: url('WorkSans-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-MediumItalic';
+    src: url('WorkSans-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-Regular';
+    src: url('WorkSans-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-SemiBold';
+    src: url('WorkSans-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-SemiBoldItalic';
+    src: url('WorkSans-SemiBoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-Thin';
+    src: url('WorkSans-Thin.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans-ThinItalic';
+    src: url('WorkSans-ThinItalic.ttf') format('truetype');
+}
